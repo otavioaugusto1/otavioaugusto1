@@ -1,4 +1,4 @@
-# Otávio Nogueira
+# Otávio Augusto Gonçalves Nogueira
 
 ### Junior Data Scientist at @Nemo
 ### Graduating in Computer Science
@@ -11,4 +11,3 @@
 Enthusiast of the best Data Science & optimization technologies.
 
 Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior Data Scientist.
-
