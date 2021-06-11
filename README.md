@@ -2,12 +2,20 @@
 
 ### Junior Data Scientist at @Nemo
 ### Graduating in Computer Science
+###Enthusiast of the best Data Science, graph algorithms & optimization.
+###Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior Data Scientist.
 
+<h1>Technologies for front-end</h1>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Otávio%20Nogueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ot%C3%A1vio-augusto-gon%C3%A7alves-nogueira-2627791b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnvXdZLS8QUOJQaZdHFaC%2FA%3D%3D)](https://www.linkedin.com/in/ot%C3%A1vio-augusto-gon%C3%A7alves-nogueira-2627791b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnvXdZLS8QUOJQaZdHFaC%2FA%3D%3D)
-[![Twitter Badge](https://img.shields.io/badge/-@OtvioAugustoGo9-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/OtvioAugustoGo9)](https://twitter.com/OtvioAugustoGo9)
-📸 [Instagram](https://www.instagram.com/otavio.gon/) <br>
+</div>
 
-Enthusiast of the best Data Science, graph algorithms & optimization.
-
-Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior Data Scientist.
+<div>
+ <h1>Contacts</h1>
+  <a href="https://www.instagram.com/otavio.gon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/otávio-augusto-gonçalves-nogueira-2627791b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
