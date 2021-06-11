@@ -17,5 +17,5 @@
 <div>
  <h1>Contacts</h1>
   <a href="https://www.instagram.com/otavio.gon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/otávio-augusto-gonçalves-nogueira-2627791b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ot%C3%A1vio-augusto-gon%C3%A7alves-nogueira-2627791b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
