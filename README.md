@@ -2,8 +2,8 @@
 
 ### Junior Data Scientist at @Nemo
 ### Graduating in Computer Science
-###Enthusiast of the best Data Science, graph algorithms & optimization.
-###Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior Data Scientist.
+### Enthusiast of the best Data Science, graph algorithms, optimization & front-end.
+### Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior Data Scientist.
 
 <h1>Technologies for front-end</h1>
   <div style="display: inline_block"><br>
