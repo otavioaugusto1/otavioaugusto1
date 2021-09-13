@@ -1,10 +1,11 @@
 # Otávio Augusto Gonçalves Nogueira
 
+### JavaScript • React • Node.js ⚛️⚡
 ### Junior Data Scientist at @Nemo
 ### Graduating in Computer Science
 ### Enthusiast of the best Data Science, graph algorithms, optimization & front-end.
 ### Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior Data Scientist.
-
+ 
 <div>
  <h1>Contacts</h1>
   <a href="https://www.instagram.com/otavio.gon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
