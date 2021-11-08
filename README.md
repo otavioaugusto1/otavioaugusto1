@@ -7,7 +7,7 @@
 ### Enthusiast of the best Data Science, graph algorithms, optimization & front-end.
 ### Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior Data Scientist.
  
-<h1 align="center">Stack</h1>
+<h1 align="center">Domínios</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
