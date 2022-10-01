@@ -1,11 +1,12 @@
 # Otávio Augusto Gonçalves Nogueira
 
-### JavaScript • React • Node.js ⚛️⚡
+### Python • Docker • Kubernets • Jenkins  ⚛️⚡
+### Junior DevOps at @Fitbank
 ### Igniter at @Rocketseat
 ### Junior Data Scientist at @Nemo
 ### Graduating in Computer Science
-### Enthusiast of the best Data Science, graph algorithms, optimization & front-end.
-### Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior Data Scientist.
+### Enthusiast of the best Data Science, graph algorithms, optimization & DevOps culture.
+### Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior DevOps.
  
 <div>
  <h1>Contacts</h1>
