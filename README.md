@@ -1,8 +1,7 @@
 # Otávio Augusto Gonçalves Nogueira
 
-### Python • Docker • Kubernets • Jenkins  ⚛️⚡
-### Junior DevOps at @Fitbank
-### Igniter at @Rocketseat
+### Python • Docker • Kubernetes • Jenkins  ⚛️⚡
+### Junior DevOps at @PLSS
 ### Junior Data Scientist at @Nemo
 ### Graduating in Computer Science
 ### Enthusiast of the best Data Science, graph algorithms, optimization & DevOps culture.
