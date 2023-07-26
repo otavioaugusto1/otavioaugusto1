@@ -1,7 +1,7 @@
 # Otávio Augusto Gonçalves Nogueira
 
-### Python • Docker • Kubernetes • Jenkins  ⚛️⚡
-### Junior DevOps at @PLSS
+### Python • Docker • Kubernetes • Datadog  ⚛️⚡
+### Junior SRE at @Celcoin
 ### Junior Data Scientist at @Nemo
 ### Graduating in Computer Science
 ### Enthusiast of the best Data Science, graph algorithms, optimization & DevOps culture.
