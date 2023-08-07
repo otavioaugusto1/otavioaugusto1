@@ -2,7 +2,6 @@
 
 ### Python • Docker • Kubernetes • Datadog  ⚛️⚡
 ### SRE at @Celcoin
-### Junior Data Scientist at @Nemo
 ### Graduating in Computer Science
 ### Enthusiast of the best Data Science, graph algorithms, optimization & DevOps culture.
 ### Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior DevOps.
