@@ -1,10 +1,10 @@
 # Otávio Augusto Gonçalves Nogueira
 
-### Python • Docker • Kubernetes • Datadog  ⚛️⚡
-### SRE at @Celcoin
+### Python • AWS • Kubernetes • Datadog  ⚛️⚡
+### SRE at @PagBank
 ### Graduating in Computer Science
 ### Enthusiast of the best Data Science, graph algorithms, optimization & DevOps culture.
-### Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and Junior DevOps.
+### Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and SRE.
  
 <div>
  <h1>Contacts</h1>
