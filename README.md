@@ -2,8 +2,7 @@
 
 ### Python • AWS • Kubernetes • Datadog  ⚛️⚡
 ### SRE at @PagBank
-### Graduating in Computer Science
-### Enthusiast of the best Data Science, graph algorithms, optimization & DevOps culture.
+### Bachelor of Computer Science
 ### Studying Computer Science at the Federal University of Ceará -UFC- Campus Russas. Current Monitor of Graph Algorithms and SRE.
  
 <div>
